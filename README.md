@@ -1,1 +1,1 @@
-"# öbungen fÅr Python" 
+#√úbungen f√ºr Python
