@@ -12,3 +12,23 @@ Zur Ersetzung eines Buchstabens in einem String können sie folgenden Trick anwe
 wort = wort[:index] + buchstabe + wort[index + 1:]
 
 Der Ablauf des Spiels soll in etwa so stattfinden:
+
+Geraten: ___________  
+Fehler: 0 von 10  
+Bitte geben sie einen Buchstaben ein: a  
+Buchstabe vorhanden!  
+Geraten: ______a____  
+Fehler: 0 von 10  
+Bitte geben sie einen Buchstaben ein: p  
+Buchstabe nicht vorhanden!  
+Geraten: ______a____  
+Fehler: 1 von 10  
+Bitte geben sie einen Buchstaben ein: ö  
+Buchstabe nicht vorhanden!  
+Geraten: ______a____  
+Fehler: 2 von 10  
+Bitte geben sie einen Buchstaben ein: l  
+Buchstabe vorhanden!  
+Geraten: l_____a_l__  
+Fehler: 2 von 10  
+Bitte geben sie einen Buchstaben ein:   
