@@ -13,6 +13,7 @@ wort = wort[:index] + buchstabe + wort[index + 1:]
 
 Der Ablauf des Spiels soll in etwa so stattfinden:
 
+<pre>
 Geraten: ___________  
 Fehler: 0 von 10  
 Bitte geben sie einen Buchstaben ein: a  
@@ -31,4 +32,4 @@ Bitte geben sie einen Buchstaben ein: l
 Buchstabe vorhanden!  
 Geraten: l_____a_l__  
 Fehler: 2 von 10  
-Bitte geben sie einen Buchstaben ein:   
+</pre>
