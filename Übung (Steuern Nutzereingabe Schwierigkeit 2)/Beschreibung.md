@@ -1,4 +1,4 @@
-Übung 4: Steuern Nutzereingabe
+Übung: Steuern Nutzereingabe
 
 Schwierigkeit: 2 von 10
 

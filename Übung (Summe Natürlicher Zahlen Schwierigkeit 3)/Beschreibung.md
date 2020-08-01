@@ -1,4 +1,4 @@
-Übung 6: Summe Natürlicher Zahlen
+# Übung: Summe Natürlicher Zahlen
 
 Schwierigkeit: 3 von 10
 

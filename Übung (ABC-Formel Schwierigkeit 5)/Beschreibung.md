@@ -1,4 +1,4 @@
-# Übung 10: ABC-Formel
+# Übung: ABC-Formel
 
 Schwierigkeit: 5 von 10
 

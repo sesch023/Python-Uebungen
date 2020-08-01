@@ -1,4 +1,4 @@
-# Übung 1: Hello World
+# Übung: Hello World
 
 Schwierigkeit: 0 von 10
 

@@ -1,4 +1,4 @@
-Übung 4: Fahrenheit Nutzereingabe
+Übung: Fahrenheit Nutzereingabe
 
 Schwierigkeit: 2 von 10
 

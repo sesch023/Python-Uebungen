@@ -1,4 +1,4 @@
-# Übung 2: Fahrenheit
+# Übung: Fahrenheit
 
 Schwierigkeit: 1 von 10
 

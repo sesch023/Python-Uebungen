@@ -1,4 +1,4 @@
-# Übung 3: Steuern
+# Übung: Steuern
 
 Schwierigkeit: 2 von 10
 

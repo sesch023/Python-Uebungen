@@ -1,4 +1,4 @@
-# Übung 9: Hangman
+# Übung: Hangman
 
 Schwierigkeit: 5 von 10
 

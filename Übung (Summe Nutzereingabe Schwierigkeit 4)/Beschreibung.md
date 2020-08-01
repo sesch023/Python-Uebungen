@@ -1,4 +1,4 @@
-# Übung 7: Summe Nutzereingabe
+# Übung: Summe Nutzereingabe
 
 Schwierigkeit: 4 von 10
 

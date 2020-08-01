@@ -1,4 +1,4 @@
-# Übung 8: Lotto
+# Übung: Lotto
 
 Schwierigkeit: 5 von 10
 
